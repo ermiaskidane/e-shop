@@ -1,5 +1,6 @@
 server/node_modules
-server/.env
+.env
+node_modules
 
 client/node_modules
 note.txt
